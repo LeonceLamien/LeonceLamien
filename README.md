@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Léonce 👋</h1>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/TON_LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
